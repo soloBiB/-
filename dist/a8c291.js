@@ -4,7 +4,6 @@ document.body.insertAdjacentHTML('afterbegin', `
     <img src="assets/logos/square.png" class="nav-logo nav-btn active" data-page="dist/f9c3a7.js" />
     <div class="nav-btns">
       <button class="nav-btn" data-page="dist/d3f751.js"><i class="fa-solid fa-gamepad"></i></button>
-      <button class="nav-btn" data-page="dist/9b2e4c.js"><i class="fa-solid fa-border-all"></i></button>
       <a class="nav-btn" href="https://discord.gg/unblockings" target="_blank"><i class="fab fa-discord"></i></a>
     </div>
   </nav>
